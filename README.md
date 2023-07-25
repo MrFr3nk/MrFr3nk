@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrFr3nk
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning java,c++ and JavaScript 
+- 👀 I’m interested in coding , programming and graphic design 
+- 🌱 I’m currently learning java,c++ , python and JavaScript 
 - 💞️ I’m looking to collaborate on Misky
 - LOVE ON EARTH BY DARRELL
 
