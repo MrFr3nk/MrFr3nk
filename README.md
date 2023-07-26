@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @MrFr3nk
-- 👀 I’m interested in coding , programming and graphic design 
-- 🌱 I’m currently learning java,c++ , python and JavaScript 
-- 💞️ I’m looking to collaborate on Misky
-- LOVE ON EARTH BY DARRELL
+|•| ʜᴇʟʟᴏ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘᴀɢᴇ , ɪ ᴀᴍ ᴍʀ ғʀᴀɴᴋ
+
+|•| ɪ ʜᴀᴄᴋ ғᴏʀ ғᴜɴ ᴀɴᴅ ɪ ᴀᴍ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ ᴀɴᴅ ᴀɴʏ ᴀɴʏᴛʜɪɴɢ ᴛʜᴀᴛ ɪɴᴠᴏʟᴠᴇs xᴏᴅɪɴɢ 🐦
+
+|•| ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴊᴀᴠᴀsᴄʀɪᴘᴛ, ᴘʏᴛʜᴏɴ , ʀᴇᴀᴄᴛ ᴀɴᴅ ᴄ++©
+
+|•| ɪᴀᴍ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴋʜᴀʟɪ sᴄʀɪᴘᴛs , ᴛᴇʀᴍᴜx ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴀ ᴄʜᴀᴛʙᴏᴛ
+
+⌥⎚sᴇᴄᴜʀᴇ ᴛʜᴇ ʙᴀɢ ᴄᴏᴢ ɪ ᴀᴍ ʏᴏᴜʀ ɢɪʀʟs sᴇᴄʀᴇᴛ ᴄʀᴜsʜ😅🥲😂
+
+        ╔━━━━━━━━━━━━━━━━━╗
+            Lᴏᴠᴇ Oɴ Eᴀʀᴛʜ Bʏ Dᴀʀʀᴇʟʟ   
+        ╚━━━━━━━━━━━━━━━━━╝
 
 <!---
 MrFr3nk/MrFr3nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
