@@ -14,7 +14,7 @@
         ╚━━━━━━━━━━━━━━━━━╝
 
 # Reach Me On🌀 <br>
-<a href="wa.me/263719647303">○ Reach Me On WhatsApp ●</a>
+<a href="https://wa.me/263719647303/">○ Reach Me On WhatsApp ●</a>
 <!---
 MrFr3nk/MrFr3nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
