@@ -9,10 +9,10 @@
 ⌥⎚sᴇᴄᴜʀᴇ ᴛʜᴇ ʙᴀɢ ᴄᴏᴢ ɪ ᴀᴍ ʏᴏᴜʀ ɢɪʀʟs sᴇᴄʀᴇᴛ ᴄʀᴜsʜ😅🥲😂
 
          ╔━━━━━━━━━━━━━━━━━╗
-           •  ©  Ｆ Ｒ Ａ Ｎ Ｋ  •
+          •  ©  Ｆ Ｒ Ａ Ｎ Ｋ  •
          ╚━━━━━━━━━━━━━━━━━╝
 
-# Contact Me Here🌀 <br>
+<u># Contact Me Here 🐦 </u> <br>
 <a href="https://wa.me/263719647303/">○ Reach Me On WhatsApp ●</a>
 
 ## Support <img src="https://user-images.githubusercontent.com/64035221/113476039-61b21c80-9496-11eb-93d1-97a97f6acaa6.png" width="30" height="30">
