@@ -15,7 +15,7 @@
 <u># Contact Me Here 🐦 </u> <br>
 <a href="https://wa.me/263719647303/">○ Reach Me On WhatsApp ●</a>
 
-## Support <img src="https://user-images.githubusercontent.com/64035221/113476039-61b21c80-9496-11eb-93d1-97a97f6acaa6.png" width="30" height="30">
+## Support <img src="https://github.com/MrFr3nk/Imagick-/blob/main/PhotoCollage_1704163407014.jpg" width="30" height="30">
 
 <table align="center" style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
