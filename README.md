@@ -19,7 +19,7 @@
 
 <table align="center" style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
-    <th><img src="https://user-images.githubusercontent.com/100421286/272568945-0cb5c1cb-b544-4287-962b-cf5ebab61d3d.jpg" width="100%" height="100%"></th>
+    <th><img src="https://github.com/MrFr3nk/Imagick-/blob/main/PhotoCollage_1704163407014.jpg" width="100%" height="100%"></th>
   </tr>
   <tr>
     <td><a href="https://github.com/MrFr3nk/"><p align='center'><b>Mr Frank</b></td>
