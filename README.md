@@ -15,7 +15,7 @@
 <u># Contact Me Here 🐦 </u> <br>
 <a href="https://wa.me/263719647303/">○ Reach Me On WhatsApp ●</a>
 
-## Support Me Here
+<center>## Support Me Here</center>
 
 <table align="center" style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
