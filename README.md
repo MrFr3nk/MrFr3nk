@@ -6,10 +6,8 @@
 
 • As of my projects Iam currently working on<a href ="https://wa.me/263788236690/"> SubZero AI</a>, a whatsapp automated chatbot🤖.
 
-• I have also made some interactive websites for E Commerce and education and an offline ChatGPT clone.⚙️
-         ╔━━━━━━━━━━━━━━━━━╗
-          •  ©  Ｆ Ｒ Ａ Ｎ Ｋ  •
-         ╚━━━━━━━━━━━━━━━━━╝
+• I have also made some interactive websites for E Commerce and education and an offline ChatGPT clone.⚙️ </br>
+         
 
 <u># Contact Me Here 🐦 </u> <br>
 <a href="https://wa.me/263719647303/">○ Reach Me On WhatsApp ●</a>
