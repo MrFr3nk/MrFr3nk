@@ -1,13 +1,12 @@
-•  Kᴏɴɪᴄʜɪʜᴀ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘᴀɢᴇ , ɪ ᴀᴍ ᴍʀ ғʀᴀɴᴋ
+•  Konichiha😄, welcome to my github workspace. I am Mr Frank.
 
-•  ɪ ʜᴀᴄᴋ ғᴏʀ ғᴜɴ ᴀɴᴅ ɪ ᴀᴍ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ ᴀɴᴅ ᴀɴʏ ᴀɴʏᴛʜɪɴɢ ᴛʜᴀᴛ ɪɴᴠᴏʟᴠᴇs xᴏᴅɪɴɢ 🐦
+•  Iam a Front End developer & currently doing courses on Fullstack developement🖥️.
 
-•  ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴊᴀᴠᴀsᴄʀɪᴘᴛ, ᴘʏᴛʜᴏɴ , ʀᴇᴀᴄᴛ ᴀɴᴅ ᴄ++©
+• I am fluent in Html, CSS, Javascript and NodeJs though i can speak Python, Java, React and C languages.
 
-•  ɪᴀᴍ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴋʜᴀʟɪ sᴄʀɪᴘᴛs , ᴛᴇʀᴍᴜx ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴀ <a href=https://wa.me/263788236690/> ᴄʜᴀᴛʙᴏᴛ</a>
+• As of my projects Iam currently working on<a href ="https://wa.me/263788236690/"> SubZero AI</a>, a whatsapp automated chatbot🤖.
 
-⌥⎚sᴇᴄᴜʀᴇ ᴛʜᴇ ʙᴀɢ ᴄᴏᴢ ɪ ᴀᴍ ʏᴏᴜʀ ɢɪʀʟs sᴇᴄʀᴇᴛ ᴄʀᴜsʜ😅🥲😂
-
+• I have also made some interactive websites for E Commerce and education and an offline ChatGPT clone.⚙️
          ╔━━━━━━━━━━━━━━━━━╗
           •  ©  Ｆ Ｒ Ａ Ｎ Ｋ  •
          ╚━━━━━━━━━━━━━━━━━╝
