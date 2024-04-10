@@ -1,3 +1,4 @@
+<b>
 •  Konichiha😄, welcome to my github workspace. I am Mr Frank.
 
 •  Iam a Front End developer & currently doing courses on Fullstack developement🖥️.
@@ -6,13 +7,14 @@
 
 • As of my projects Iam currently working on<a href ="https://wa.me/263788236690/"> SubZero AI</a>, a whatsapp automated chatbot🤖.
 
-• I have also made some interactive websites for E Commerce and education and an offline ChatGPT clone.⚙️ </br>
+• I have also made some interactive websites for E Commerce and education and an offline ChatGPT clone.⚙️</b>
+</br>
          
 
 <u># Contact Me Here 🐦 </u> <br>
 <a href="https://wa.me/263719647303/">○ Reach Me On WhatsApp ●</a>
 
-<center> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙈𝙚 </center>
+<center>𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙈𝙚</center>
 
 <table align="center" style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
